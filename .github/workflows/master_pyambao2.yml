@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'pyambao2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DEFC4EF21868496682EBFA70629F22D4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5770F5A11C7841EE80CA8D1C6C1610A5 }}
           package: .
